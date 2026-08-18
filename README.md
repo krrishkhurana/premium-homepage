@@ -2,6 +2,9 @@
 
 A responsive single-page product concept for a resilient data-ingestion control plane.
 
+#demo link 
+premium-homepage-ten.vercel.app
+
 ## Run locally
 
 No build step is required. Open `index.html` in a browser, or serve the folder with any static server.
